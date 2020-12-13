@@ -1,5 +1,5 @@
 {
-    "name": "jordanjay29/flarum-ext-summaries",
+    "name": "dcp/flarum-ext-summaries",
     "description": "Show summaries on all discussions.",
     "type": "flarum-extension",
     "keywords": [
