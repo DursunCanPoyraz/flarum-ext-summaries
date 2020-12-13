@@ -1,5 +1,5 @@
 {
-    "name": "dcp/flarum-ext-summaries",
+    "name": "DursunCanPoyraz/flarum-ext-summaries",
     "description": "Show summaries on all discussions.",
     "type": "flarum-extension",
     "keywords": [
