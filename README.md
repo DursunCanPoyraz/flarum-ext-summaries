@@ -20,3 +20,7 @@ Version 0.3.0
 - [Github](https://github.com/jordanjay29/flarum-ext-summaries) (for code and issues)  
 - [Flarum](https://discuss.flarum.org/d/2151-summaries-showing-excerpts-on-discussions-page)  
 - [Packagist](https://packagist.org/packages/jordanjay29/flarum-ext-summaries)  
+
+### Installation
+
+`composer require dursun-can-poyraz/flarum-ext-summaries`
